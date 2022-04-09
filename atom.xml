@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://yhlincs.github.io</id>
-    <title>Gridea</title>
-    <updated>2022-04-09T13:46:20.148Z</updated>
+    <title>yhl&apos;s blog</title>
+    <updated>2022-04-09T13:55:35.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://yhlincs.github.io"/>
     <link rel="self" href="https://yhlincs.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>用不用再说，先搞一个</subtitle>
     <logo>https://yhlincs.github.io/images/avatar.png</logo>
     <icon>https://yhlincs.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, Gridea</rights>
+    <rights>All rights reserved 2022, yhl&apos;s blog</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
         <id>https://yhlincs.github.io/post/test/</id>
@@ -17,6 +17,12 @@
         </link>
         <updated>2022-04-09T08:29:52.000Z</updated>
         <content type="html"><![CDATA[<p>总算搭好了，好耶~</p>
+<pre><code class="language-cpp">#include&lt;bits/stdc++.h&gt;
+using namespace std;
+int main(){
+    return 0;
+}
+</code></pre>
 ]]></content>
     </entry>
     <entry>
